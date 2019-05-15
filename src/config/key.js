@@ -1,7 +1,8 @@
 export const MeetupAPI = {
-    apiKey : "674a5ab597d951c31467e6c502b60",
-    urlname: "GDG-Jalandhar" // Example GDG-Jalandhar  CHAPTER_URL_NAME
+    apiKey : "78112228e2d277a20721a541e2a304d",
+    urlname: "GDG-Rochester" 
 }
+
 
 
 // PASTE_YOUR_MEETUP_API_KEY_HERE

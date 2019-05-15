@@ -1,8 +1,6 @@
 # Aura - GDG[x]
 
-<!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
-
-<img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
+Thanks to GDG Jalandhar. This website is based on the template built by GDG Jalandhar for GDG[x]
 
 Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
@@ -115,7 +113,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | GDG Sevilla | [View Now](https://www.gdgsevilla.com/) |
 | GDG Madeira | [View Now](https://gdgmadeira.xyz/) |
 | GDG Chandigarh | [View Now](https://gdg-chd.web.app/) |
-
+| GDG Rochester | [View Now](http://gdgrochester.app/) |
 
 
 Project is published under the [MIT license](/LICENSE.md).  
