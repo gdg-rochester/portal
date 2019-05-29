@@ -34,5 +34,13 @@
         "github":"",
         "profileImage":"Aamir.jpeg",
         "website":"https://www.linkedin.com/in/aamir-jamal/"
+    },
+    {
+        "name":"Kedar Nadkarni",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/nadkarni_kedar",
+        "linkedin":"https://www.linkedin.com/in/kedar-nadkarni/",
+        "github":"https://github.com/kedarnad",
+        "profileImage":"Kedar.jpg"
     }
 ]
