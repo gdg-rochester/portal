@@ -1,13 +1,24 @@
 [
+
+    {
+        "name":"Google",
+        "link":"https://www.google.com/",
+        "img":"google.png"
+    },
     {
         "name":"GDG",
         "link":"https://developers.google.com/groups",
         "img":"gdglogo.png"
     },
     {
-        "name":"Paychex",
-        "link":"https://www.paychex.com/",
-        "img":"paychex.jpg"
+        "name":"JetBrains",
+        "link":"https://www.jetbrains.com/",
+        "img":"jetbrains.png"
+    },
+    {
+        "name":"WomenTech Makers",
+        "link":"https://www.WomenTechMakers.com/",
+        "img":"wtm.png"
     }
 
 ]

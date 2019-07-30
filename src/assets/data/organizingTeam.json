@@ -20,7 +20,7 @@
     {
         "name":"Ishika Prasad",
         "designation":"Co-Organizer",
-        "twitter":"",
+        "twitter":"https://twitter.com/i_ishikaprasad",
         "linkedin":"https://www.linkedin.com/in/ishika-prasad/",
         "github":"https://github.com/ishika-prasad",
         "profileImage":"Ishika.jpeg",
@@ -31,16 +31,8 @@
         "designation":"Co-Organizer",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/aamir-jamal/",
-        "github":"",
+        "github":"https://github.com/aamirjamal",
         "profileImage":"Aamir.jpeg",
         "website":"https://www.linkedin.com/in/aamir-jamal/"
-    },
-    {
-        "name":"Kedar Nadkarni",
-        "designation":"Co-Organizer",
-        "twitter":"https://twitter.com/nadkarni_kedar",
-        "linkedin":"https://www.linkedin.com/in/kedar-nadkarni/",
-        "github":"https://github.com/kedarnad",
-        "profileImage":"Kedar.jpg"
     }
 ]

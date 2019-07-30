@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"Flutter Hackathon'19",
-    "EventImage":"FH.jpeg",
+    "FeatureEventName":"GDG DevFest'19 Rochester",
+    "EventImage":"DevFest.png",
     "EventDate":{
-        "Date":"1",
-        "Month":"6",
+        "Date":"7",
+        "Month":"9",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"06:00 PM"
+        "StartTime":"09:30 AM",
+        "EndTime":"06:40 PM"
     },
-    "EventVenue":"Paychex, 675 Basket Rd, Webster, Rochester",
-    "EventVenueMapLink":"https://goo.gl/maps/CModa3maShgrmN978",
+    "EventVenue":"RIT Magic Center, 300 Lomb Memorial Dr, Rochester",
+    "EventVenueMapLink":"https://goo.gl/maps/evncHtxeSZzzhHMH9",
     "EventWebsite":"https://www.gdgRochester.com/",
-    "EventDescription":"Flutter is Google’s portable UI toolkit for building beautiful, native applications for mobile, web, and desktop from a single codebase.",
-    "MeetupLink":"https://www.meetup.com/GDG-Rochester/events/261188035/",
-    "RegistrationLink":"https://www.meetup.com/GDG-Rochester/events/261188035/",
-    "FBEventPageURL":"https://www.facebook.com/GDGRochester/"
+    "EventDescription":"GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, workshops, code-labs, and more.",
+    "MeetupLink":"https://www.meetup.com/GDG-Rochester/events/262710495/",
+    "RegistrationLink":"https://gdgrochester.explara.com/e/devfest",
+    "FBEventPageURL":"https://www.facebook.com/events/2416975651720973/"
 }
 
