@@ -16,6 +16,16 @@
         "img":"jetbrains.png"
     },
     {
+        "name":"Postman",
+        "link":"https://www.getpostman.com/",
+        "img":"pm-logo-vert.jpg"
+    },
+    {
+        "name":"Github",
+        "link":"https://www.github.com/",
+        "img":"Octocat.png"
+    },
+    {
         "name":"WomenTech Makers",
         "link":"https://www.WomenTechMakers.com/",
         "img":"wtm.png"
